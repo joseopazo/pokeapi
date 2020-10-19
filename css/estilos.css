@@ -1,0 +1,64 @@
+/*div{
+    border: 1px solid;
+}*/
+
+#imagenes,img {
+
+    width: 15rem;
+    height: 15rem;
+}
+
+.columna {
+
+    display: flex; flex-direction: row;
+}
+
+#imagenes {
+
+    display:inline-block ;
+}
+
+#graficos {
+    display: inline-block;
+}
+
+.logo {
+    width: 500px;
+    height: 200px;   
+}
+
+.principallogo {
+
+    display: flex;
+    justify-content: center;
+    background: radial-gradient(rgb(255, 255, 0), transparent);
+}
+
+body {
+    padding: 20px;
+}
+
+.inputpokemon {
+
+    display: flex;
+}
+
+#inicio h4 {
+    margin-left: 70px;
+    font-family: 'Fredoka One', cursive;
+}
+
+h3 {
+    font-family: 'Righteous', cursive;
+}
+
+.subtitulo {
+    font-family: 'Jockey One', sans-serif;
+    color: rgb(177, 14, 14);
+}
+
+img  {
+display: flex;
+justify-content: center;
+
+}
